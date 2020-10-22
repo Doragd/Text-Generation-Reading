@@ -14,6 +14,10 @@
 ## Text Style Transfer
 > 对这个领域简单描述下，比如输入输出是什么，主要是方便别人了解这个文本生成任务。
 
+## Data-to-Text
+* [Long and Diverse Text Generation with Planning-based Hierarchical Variational Model](https://arxiv.org/abs/1908.06605) - EMNLP2019
+  * 对数据进行分组，将长文生成任务分解成若干组内生成短句任务(Plan)，使用分层生成(sentence-level&word-level)的方式提升生成的多样性(HV) 
+
 * [论文名](论文链接) - 【发表在哪】
   * 可选：大概描述下这个论文是做什么的
 
